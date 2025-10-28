@@ -12,6 +12,7 @@ suma
 ###SET_BREAK###
 フルール
 アルシオーネ
+mo4ca
 しつじい
 R_Alastor
 かすみん
@@ -54,6 +55,7 @@ Neko
 pomameru
 YasoL
 Yuki-00
+苟花 玲
 LB2000
 Serre
 さえそみ
@@ -62,4 +64,3 @@ Nrua【んるあ】
 norakuroneko
 えもたこ
 peco
-苟花 玲
