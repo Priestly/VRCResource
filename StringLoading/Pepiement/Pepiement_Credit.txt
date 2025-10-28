@@ -1,0 +1,128 @@
+<b>― シェーダー ―</b>
+
+<b>PBRシェーダー</b>
+Orels / Silent
+<size=90%>https://shaders.orels.sh/
+
+https://s-ilent.booth.pm/
+</size>
+
+<b>ShrubberyShader</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/2189410
+</size>
+
+<b>Standard Distance Fade シェーダー</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/1014133
+</size>
+
+<b>― SKYBOX ―</b>
+
+<b>UniStar</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/4633595
+</size>
+
+<b>― 3Dモデル ―</b>
+
+<b>渋谷の3D風景</b>
+PLATEAU
+<size=90%>https://www.mlit.go.jp/plateau/
+</size>
+
+<b>「アジサイ」【3Dモデル】</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/1518961
+</size>
+
+<b>草々の3Dモデル（21種）</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/4653430
+</size>
+
+<b>レトロな扇風機</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/3790595
+</size>
+
+<b>― ギミック ―</b>
+
+<b>ワールドメガホン / WorldMegaphone</b>
+tsubokulab / BOOTH
+<size=90%>https://tsubokulab.booth.pm/
+</size>
+
+<b>天候システム + リアルタイム太陽システム</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/3519545
+</size>
+
+<b>FootStepSystem</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/3251072
+</size>
+
+<b>段ジャンプ & ダッシュギミック / Double Jump & Dash gimmick</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/3084298
+</size>
+
+<b>スイベルチェアーギミック</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/2996819
+</size>
+
+<b>Udon Wall Clock 1.01</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/1987988
+</size>
+
+<b>HandpanVR</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/3978694
+</size>
+
+<b>Polaroid Camera for VRChat World</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/3864886
+</size>
+
+<b>ヨドコロちゃんのポテトチップス</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/2657402
+</size>
+
+<b>ビールサーバー＆瓶ビールシステム</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/1808463
+</size>
+
+<b>3Dモデル「imagePad」+ VRChat Udon用ギミック</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/4573315
+</size>
+
+<b>― パーティクル ―</b>
+
+<b>クラゲパーティクル / Jellyfish Particle</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/3860331
+</size>
+
+<b>線香花火 紅花 -Sparkler Kouka-</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/2236187
+</size>
+
+<b>MQOf FireWorks「パーティクル打ち上げ花火」</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/2799484
+</size>
+
+<b>― BGM ―</b>
+
+<b>PORTMERIA</b>
+BOOTH
+<size=90%>https://booth.pm/ja/items/4017120
+</size>
