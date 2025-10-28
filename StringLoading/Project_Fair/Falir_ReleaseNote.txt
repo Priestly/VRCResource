@@ -1,0 +1,54 @@
+<color=#50C878>VERSION 1.1.1</color>  |  <color=#b9d3e9>2025/05/29</color></u></b>
+　
+● 電車のトグルスイッチがうまく動作していなかった問題を修正
+
+<color=#50C878>VERSION 1.1.0</color>  |  <color=#b9d3e9>2025/05/29</color></u></b>
+　
+● VRC Volume Light に対応
+● おやすみゾーン（トラック）を追加
+● ワールドメニューに電車のトグルスイッチを追加
+● RBS SleepKit 2 の導入
+● 傘が裏返る機能を一時的に廃止
+● オーディオリンクとグラフィックセッティングの紐づけを廃止
+● その他修正
+
+<color=#50C878>VERSION 1.0.0</color>  |  <color=#b9d3e9>2025/04/25</color></u></b>
+　
+● Public Release
+
+<color=#50C878>VERSION 0.4.2</color>  |  <color=#b9d3e9>2025/04/25</color></u></b>
+　
+● ライティングの修正
+
+<color=#50C878>VERSION 0.4.1</color>  |  <color=#b9d3e9>2025/04/24</color></u></b>
+　● 階段のモードセレクトが自分以外のプレイヤーに反応してしまうのを修正
+  ● 水槽から出るギミックが自分以外のプレイヤーに反応してしまうのを修正
+  ● ソーダが遠いテーブルに接触判定してしまう問題を修正
+
+<color=#50C878>VERSION 0.4.0</color>  |  <color=#b9d3e9>2025/04/23</color></u></b>
+ 
+  ● サイフォンコーヒーギミックの動作修正(Quest)
+  ● オブジェクトシンクの調整
+  ● PPSオプションの追加
+  ● その他の不具合の修正
+
+<color=#50C878>VERSION 0.3.0</color>  |  <color=#b9d3e9>2025/04/04</color></u></b>
+ 
+  ● フィードバックの反映
+  ● 不具合の修正
+  ● 同期方法の変更
+  ● 喫煙所のブラッシュアップ
+  ● スポーンタブレットの追加
+  ● ObonEasy & StickyTableの導入
+
+<color=#50C878>VERSION 0.2.0</color>  |  <color=#b9d3e9>2025/03/28</color></u></b>
+ 
+  ● フィードバックの反映
+  ● 不具合の修正
+
+<color=#50C878>VERSION 0.1.0</color>  |  <color=#b9d3e9>2025/03/24</color></u></b>
+ 
+  ● FANBOX PreRelease
+ 
+
+ 
