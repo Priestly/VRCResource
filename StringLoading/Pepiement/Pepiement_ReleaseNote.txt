@@ -1,0 +1,56 @@
+<color=#50C878> 1.11.00 (hotfix)　</color>  |  <color=#b9d3e9>25-Aug-2025</color></u></b>
+
+  ● VRChat(2025.3.1)に導入された新しいセキュリティチェックに関する問題を解決しました
+  ● 「VRC Hand Menu」を廃止し「World Integrated Menu」を導入しました。
+  ● （告知）「Pepiement」をUnity2022で最適化したバージョンを今後リリース予定です。
+
+
+<color=#50C878> 1.10.00　</color>  |  <color=#b9d3e9>12-JAN-2025</color></u></b>
+
+  ● Pimax様のポスターをワールド内に設置させていただきました。
+
+
+<color=#50C878> 1.09.01　</color>  |  <color=#b9d3e9>07-NOV-2024</color></u></b>
+
+  ● 左手のハンドメニューギミックが動かない不具合を修正しました。
+
+<color=#50C878>VERSION 1.09.00</color>  |  <color=#b9d3e9>08-JAN-2024</color></u></b>
+ 
+  ● お正月アップデート終了
+　　- お正月飾りを撤去
+
+　● 機能改善
+　　- 引き出しにマイクを追加（リクエスト）
+　　- 電車の無効化機能を左手メニューに追加
+
+<color=#50C878>VERSION 1.08.00</color>  |  <color=#b9d3e9>31-DEC-2023</color></u></b>
+ 
+  ● お正月アップデート
+　　- クリスマスの飾り付けを終了
+　　- お正月の飾り付けを追加
+
+<color=#50C878>VERSION 1.07.01</color>  |  <color=#b9d3e9>27-NOV-2023</color></u></b>
+
+  ● 機能改善
+　　- QvPenのおしりにデリートボタンを追加（リクエスト）
+　　- オレンジ色のQvpenをインフォメーションパネル前に追加
+　　- 冬アップデートで追加された雪だるまの位置を修正
+　　- 雪だるまにPickupを追加
+
+<color=#50C878>VERSION 1.07.00</color>  |  <color=#b9d3e9>13-NOV-2023</color></u></b>
+
+  ● ウィンターアップデート
+　　- ハロウィンの飾り付けを終了
+　　- クリスマスの飾り付けを追加
+　　- テーブルにハンドベルを追加
+　　- <s>imagePadを追加</s>
+　　- インフォメーションパネルを追加
+　　- Pickupの位置をリセットできるスイッチを追加
+
+<color=#50C878>VERSION 1.06.00</color>  |  <color=#b9d3e9>16-OCT-2023</color></u></b>
+
+  ● ハロウィンアップデート
+
+<color=#50C878>VERSION 1.00.05</color>  |  <color=#b9d3e9>05-APR-2023</color></u></b>
+
+  ● ラボへ登録
