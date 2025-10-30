@@ -1,6 +1,7 @@
 
 梅ひも
 メインクーン
+RuskCiela
 namozu
 ###SET_BREAK###
 くまぽてと
@@ -39,7 +40,6 @@ yagi
 kuro-take
 Feathermoon
 4MET
-RuskCiela
 ニポリカ
 のんな
 Ciel62
