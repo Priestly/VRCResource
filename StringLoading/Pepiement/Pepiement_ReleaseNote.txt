@@ -1,8 +1,19 @@
+ ● （告知）「Pepiement」をUnity2022で最適化したバージョンを今後リリース予定です。
+
+<color=#50C878> 1.12.00 　</color>  |  <color=#b9d3e9>06-Nov-2025</color></u></b>
+
+  ● SDKを3.9.0へアップデート
+  ● Discordとの連携ギミックを更新
+  ● インフォメーションパネルを差し替え
+  ● QVPen置き換え（一部不具合があります）
+
+
+
 <color=#50C878> 1.11.00 (hotfix)　</color>  |  <color=#b9d3e9>25-Aug-2025</color></u></b>
 
   ● VRChat(2025.3.1)に導入された新しいセキュリティチェックに関する問題を解決しました
   ● 「VRC Hand Menu」を廃止し「World Integrated Menu」を導入しました。
-  ● （告知）「Pepiement」をUnity2022で最適化したバージョンを今後リリース予定です。
+ 
 
 
 <color=#50C878> 1.10.00　</color>  |  <color=#b9d3e9>12-JAN-2025</color></u></b>
