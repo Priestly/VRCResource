@@ -1,187 +1,152 @@
-World design © 2025 puri_san. All rights reserved.
-Third-party assets are excluded and remain the property of their respective owners.
-
-<b>フリックチャット - 虹.</b>
-虹. - BOOTH
-<size=90%>https://booth.pm/ja/items/6056574
-</size>
-
-<b>UdonNotifier v3.0 - Lonely Sakura</b>
-Lonely Sakura - BOOTH
-<size=90%>https://booth.pm/ja/items/5776622
-</size>
-
-<b>Nebula Fog & Steam Particle - Nebula Creations</b>
-Nebula Creations - BOOTH
-<size=90%>https://booth.pm/ja/items/5201052
-</size>
-
-<b>眼鏡五枚＋収納箱 - Toraba Store</b>
-Toraba Store - BOOTH
-<size=90%>https://booth.pm/ja/items/6092765
-</size>
-
-<b>blessing - 3D flowerbouquet - arabesque elec</b>
-arabesque elec - BOOTH
-<size=90%>https://booth.pm/ja/items/5439921
-</size>
-
-<b>小さなアクアリウム　ベタ【BuiltIn】 - olisam</b>
-olisam - BOOTH
-<size=90%>https://booth.pm/ja/items/5527711
-</size>
-
-<b>【3D小物】ホワイトインテリアセット＆ワッフルセット（組み換え自由・改変用PSD付き） - あまぷる CG collection</b>
-あまぷる CG collection - BOOTH
-<size=90%>https://booth.pm/ja/items/6663711
-</size>
-
-<b>ビデオレター録画ギミック - dimebag29</b>
-dimebag29 - BOOTH
-<size=90%>https://booth.pm/ja/items/5746545
-</size>
-
-<b>eco coffee - +eco</b>
-+eco - BOOTH
-<size=90%>https://booth.pm/ja/items/2204856
-</size>
-
-<b>[SDK3] [Free] VizVid for RTab - Explosive Theorem Lab.</b>
-Explosive Theorem Lab. - BOOTH
-<size=90%>https://booth.pm/ja/items/7502895
-</size>
-
-<b>3Dモデル「マジックハンド」+ VRChat Udon用ギミック - bironist</b>
-bironist - BOOTH
-<size=90%>https://booth.pm/ja/items/3930303
-</size>
-
-<b>VRChat Udon用ゲーム「記憶ゲーム メモリズム」 - bironist</b>
-bironist - BOOTH
-<size=90%>https://booth.pm/ja/items/2476826
-</size>
-
-<b>【Quest対応】Faux Light Volumes (支援版) - クロツグミ</b>
-クロツグミ - BOOTH
-<size=90%>https://booth.pm/ja/items/7466343
-</size>
-
-<b>Cat - Toraba Store</b>
-Toraba Store - BOOTH
-<size=90%>https://booth.pm/ja/items/6348864
-</size>
-
-<b>タッチ式タブレット RTab VRChatワールドギミック - らすたの雑貨屋</b>
-らすたの雑貨屋 - BOOTH
-<size=90%>https://booth.pm/ja/items/7311462
-</size>
-
-<b>Hydrangea - Toraba Store</b>
-Toraba Store - BOOTH
-<size=90%>https://booth.pm/ja/items/7244737
-</size>
-
-<b>Nebula light profiles - Nebula Creations</b>
-Nebula Creations - BOOTH
-<size=90%>https://booth.pm/ja/items/7172824
-</size>
-
-<b>NavMesh NPC/AI System for VRChat - sistersingaming</b>
-sistersingaming - BOOTH
-<size=90%>https://booth.pm/ja/items/4506874
-</size>
-
-<b>曇りガラスで学ぶインタラクティブシェーダ入門 - PolyHarmonic Studio</b>
-PolyHarmonic Studio - BOOTH
-<size=90%>https://booth.pm/ja/items/1779114
-</size>
-
-<b>Glass Block Light ×10 - Toraba Store</b>
-Toraba Store - BOOTH
-<size=90%>https://booth.pm/ja/items/6998173
-</size>
-
-<b>【販売ワールド】Luxella 【PC／Quest対応】 - SolitudeStudio</b>
-SolitudeStudio - BOOTH
-<size=90%>https://booth.pm/ja/items/6844655
-</size>
-
-<b>衣類3D素材463点セット - yubikitax</b>
-yubikitax - BOOTH
-<size=90%>https://booth.pm/ja/items/6834318
-</size>
-
-<b>【VRChat想定】飲めるお酒 - TpLab</b>
-TpLab - BOOTH
-<size=90%>https://booth.pm/ja/items/3999585
-</size>
-
-<b>ObonEasy & StickyTable [VRChat/U#] - Purabe Works</b>
-Purabe Works - BOOTH
-<size=90%>https://booth.pm/ja/items/6650795
-</size>
-
-<b>Youtube Search Prefab for VRChat Worlds (PC/Quest) - rinvo</b>
-rinvo - BOOTH
-<size=90%>https://booth.pm/ja/items/5757644
-</size>
-
-<b>トークテーマガン【ワールド用】 - omake's factory</b>
-omake's factory - BOOTH
-<size=90%>https://booth.pm/ja/items/6473771
-</size>
-
-<b>[VRChat・Unity用] Volumetric Opal - Nine Gates</b>
-Nine Gates - BOOTH
-<size=90%>https://booth.pm/ja/items/6359942
-</size>
-
-<b>ワールド統合メニュー (World Integrated Menu) 【VRChatワールドギミック】 - yukineko works</b>
-yukineko works - BOOTH
-<size=90%>https://booth.pm/ja/items/6248278
-</size>
-
-<b>【VRChat】星柄壁紙マテリアルテクスチャ4種セット - MaLu's Materials</b>
-MaLu's Materials - BOOTH
-<size=90%>https://booth.pm/ja/items/5702057
-</size>
-
-<b>天窓ライトシャフトシェーダー / Skylight Window LightShaft Shader - NORIBEN LUNCH -のりべん専門店-</b>
-NORIBEN LUNCH -のりべん専門店- - BOOTH
-<size=90%>https://booth.pm/ja/items/5433774
-</size>
-
-<b>【VRChat】Hotel Room【Unity】 - 1sa3d</b>
-1sa3d - BOOTH
-<size=90%>https://booth.pm/ja/items/3497780
-</size>
-
-<b>【VRChat想定】飲めるコーヒー - TpLab</b>
-TpLab - BOOTH
-<size=90%>https://booth.pm/ja/items/5111592
-</size>
-
-<b>[SDK3] [Free] VizVid - Modular Media Player for VRChat - Explosive Theorem Lab.</b>
-Explosive Theorem Lab. - BOOTH
-<size=90%>https://booth.pm/ja/items/5056077
-</size>
-
-<b>Spray ASMR [Udon, VRChat] - Your Rainy Day</b>
-Your Rainy Day - BOOTH
-<size=90%>https://booth.pm/ja/items/5022820
-</size>
-
-<b>Polaroid Camera for Vrchat World - Fairplex Shop</b>
-Fairplex Shop - BOOTH
-<size=90%>https://booth.pm/ja/items/3864886
-</size>
-
-<b>無料のAI音声読み上げソフト | ボイスゲート（VOICE GATE）</b>
-VOICE GATE（vidweb.co.jp）
-<size=90%>https://vidweb.co.jp/voicegate/
-</size>
-
-<b>FukuroUdon: MimyLab's U# utilitiy pack for VPM.</b>
-GitHub
-<size=90%>https://github.com/mimyquality/FukuroUdon/
-</size>
+<b>3Dモデル「マジックハンド」</b><br />
+bironist<br />
+<size=90%>https://booth.pm/ja/items/3930303</size><br />
+<br />
+<b>blessing - 3D flowerbouquet</b><br />
+arabesque elec<br />
+<size=90%>https://booth.pm/ja/items/5439921</size><br />
+<br />
+<b>Cat</b><br />
+Toraba Store<br />
+<size=90%>https://toraba.booth.pm/items/6348864</size><br />
+<br />
+<b>eco coffee</b><br />
++eco<br />
+<size=90%>https://booth.pm/ja/items/2204856</size><br />
+<br />
+<b>Flek Sit ver1.0</b><br />
+virtual-boys<br />
+<size=90%>https://booth.pm/ja/items/7341660</size><br />
+<br />
+<b>FPS Viewer2 (旧名称:みんなのFPSを表示するやつ)</b><br />
+dimebag29<br />
+<size=90%>https://booth.pm/ja/items/4962218</size><br />
+<br />
+<b>FukuroUdon</b><br />
+<br />
+<size=90%>https://github.com/mimyquality/FukuroUdon</size><br />
+<br />
+<b>Glass Block Light ×10</b><br />
+Toraba Store<br />
+<size=90%>https://booth.pm/ja/items/6998173</size><br />
+<br />
+<b>Hotel Room</b><br />
+1sa3d<br />
+<size=90%>https://booth.pm/ja/items/3497780</size><br />
+<br />
+<b>Hydrangea</b><br />
+Toraba Store<br />
+<size=90%>https://booth.pm/ja/items/7244737</size><br />
+<br />
+<b>Luxella</b><br />
+SolitudeStudio<br />
+<size=90%>hhttps://booth.pm/ja/items/6844655</size><br />
+<br />
+<b>Nebula Fog & Steam Particle</b><br />
+Nebula Creations<br />
+<size=90%>https://booth.pm/ja/items/5201052</size><br />
+<br />
+<b>Nebula light profiles</b><br />
+Nebula Creations<br />
+<size=90%>https://booth.pm/ja/items/7172824</size><br />
+<br />
+<b>Polaroid Camera for Vrchat World</b><br />
+Fairplex Shop<br />
+<size=90%>https://booth.pm/ja/items/3864886</size><br />
+<br />
+<b>Spray ASMR</b><br />
+Your Rainy Day<br />
+<size=90%>https://booth.pm/ja/items/5022820</size><br />
+<br />
+<b>The Swiss Clock</b><br />
+Fairplex Shop<br />
+<size=90%>https://booth.pm/ja/items/4346382</size><br />
+<br />
+<b>UdonNotifier v3.0</b><br />
+Lonely Sakura<br />
+<size=90%>https://booth.pm/ja/items/5776622</size><br />
+<br />
+<b>UI+ VRChat Shader</b><br />
+z3y<br />
+<size=90%>https://booth.pm/ja/items/7637247</size><br />
+<br />
+<b>Visitors Information Board</b><br />
+ちくわ屋<br />
+<size=90%>https://booth.pm/ja/items/5403376</size><br />
+<br />
+<b>VizVid - Modular Media Player for VRChat</b><br />
+Explosive Theorem Lab.<br />
+<size=90%>https://booth.pm/ja/items/5056077</size><br />
+<br />
+<b>Volumetric Opal</b><br />
+Nine Gates<br />
+<size=90%>https://booth.pm/ja/items/6359942</size><br />
+<br />
+<b>VRChat Udon用ゲーム「記憶ゲーム メモリズム」</b><br />
+bironist<br />
+<size=90%>https://booth.pm/ja/items/2476826</size><br />
+<br />
+<b>Youtube Search Prefab for VRChat Worlds (PC/Quest)</b><br />
+rinvo<br />
+<size=90%>https://booth.pm/ja/items/5757644</size><br />
+<br />
+<b>衣類3D素材463点セット</b><br />
+yubikitax<br />
+<size=90%>https://booth.pm/ja/items/6834318</size><br />
+<br />
+<b>消防法セット</b><br />
+udon-cat-works<br />
+<size=90%>https://booth.pm/ja/items/2280017</size><br />
+<br />
+<b>小さなアクアリウム　ベタ</b><br />
+olisam<br />
+<size=90%>https://booth.pm/ja/items/5527711</size><br />
+<br />
+<b>超軽量VRChat用時計ギミック「Function Art Clock」</b><br />
+tomoq8192<br />
+<size=90%>https://booth.pm/ja/items/6495640</size><br />
+<br />
+<b>トークテーマガン</b><br />
+omake's factory<br />
+<size=90%>https://booth.pm/ja/items/6473771</size><br />
+<br />
+<b>どこでもアニメーションシステム</b><br />
+のりたま直販所<br />
+<size=90%>https://booth.pm/ja/items/4791266</size><br />
+<br />
+<b>飲めるお酒</b><br />
+TpLab<br />
+<size=90%>https://booth.pm/ja/items/3999585</size><br />
+<br />
+<b>飲めるコーヒー</b><br />
+TpLab<br />
+<size=90%>https://booth.pm/ja/items/5111592</size><br />
+<br />
+<b>バブルウォール、春夏秋冬エフェクトセット(48点)</b><br />
+NewRarity<br />
+<size=90%>https://booth.pm/ja/items/7657188</size><br />
+<br />
+<b>ビデオレター録画ギミック</b><br />
+dimebag29<br />
+<size=90%>https://booth.pm/ja/items/5746545</size><br />
+<br />
+<b>ふわふわスノー　ふわっと消えていく！雪パーティクル</b><br />
+くりきん工房-KURIKIN.WORKS-<br />
+<size=90%>https://booth.pm/ja/items/3494491</size><br />
+<br />
+<b>星柄壁紙マテリアルテクスチャ4種セット</b><br />
+MaLu's Materials<br />
+<size=90%>https://booth.pm/ja/items/5702057</size><br />
+<br />
+<b>ホワイトインテリアセット＆ワッフルセット</b><br />
+あまぷる CG collection<br />
+<size=90%>https://booth.pm/ja/items/6663711</size><br />
+<br />
+<b>眼鏡五枚＋収納箱</b><br />
+Toraba Store<br />
+<size=90%>https://booth.pm/ja/items/6092765</size><br />
+<br />
+<b>ワールド統合メニュー (World Integrated Menu)</b><br />
+yukineko works<br />
+<size=90%>https://booth.pm/ja/items/6248278</size><br />
+<br />
