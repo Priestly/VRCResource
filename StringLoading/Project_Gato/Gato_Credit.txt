@@ -38,6 +38,10 @@ Toraba Store
 Toraba Store
 <size=90%>https://booth.pm/ja/items/7244737</size>
 
+<b>imagePad</b>
+bironist
+<size=90%>https://booth.pm/ja/items/4573315</size>
+
 <b>Luxella</b>
 SolitudeStudio
 <size=90%>hhttps://booth.pm/ja/items/6844655</size>
