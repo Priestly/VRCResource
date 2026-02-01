@@ -1,6 +1,11 @@
 ● （告知）「Pepiement」をUnity 2022で最適化したバージョンを今後リリース予定です。
 
-<color=#50C878>1.12.00</color> | <color=#b9d3e9>2025/11/06</color>
+<color=#50C878>1.13.0</color> | <color=#b9d3e9>2026/02/02</color>
+
+● VIP認証機能のアップデート
+● 入口UIの位置を調整
+
+<color=#50C878>1.12.0</color> | <color=#b9d3e9>2025/11/06</color>
 
 ● SDKを3.9.0へアップデート
 ● インフォメーションパネルを差し替え
@@ -8,20 +13,20 @@
 ● VIP:Discordとの連携ギミックを更新
 ● VIP:Discord連携以外の解錠方法を廃止
 
-<color=#50C878>1.11.00 (hotfix)</color> | <color=#b9d3e9>2025/08/25</color>
+<color=#50C878>1.11.0 (hotfix)</color> | <color=#b9d3e9>2025/08/25</color>
 
 ● VRChat(2025.3.1)に導入された新しいセキュリティチェックに関する問題を解決しました
 ● 「VRC Hand Menu」を廃止し「World Integrated Menu」を導入しました。
 
-<color=#50C878>1.10.00</color> | <color=#b9d3e9>2025/01/12</color>
+<color=#50C878>1.10.0</color> | <color=#b9d3e9>2025/01/12</color>
 
 ● Pimax様のポスターをワールド内に設置させていただきました。
 
-<color=#50C878>1.09.01</color> | <color=#b9d3e9>2024/11/07</color>
+<color=#50C878>1.9.01</color> | <color=#b9d3e9>2024/11/07</color>
 
 ● 左手のハンドメニューギミックが動かない不具合を修正しました。
 
-<color=#50C878>1.09.00</color> | <color=#b9d3e9>2024/01/08</color>
+<color=#50C878>1.9.0</color> | <color=#b9d3e9>2024/01/08</color>
 
 ● お正月アップデート終了
 　　- お正月飾りを撤去
@@ -29,13 +34,13 @@
 　　- 引き出しにマイクを追加（リクエスト）
 　　- 電車の無効化機能を左手メニューに追加
 
-<color=#50C878>1.08.00</color> | <color=#b9d3e9>2023/12/31</color>
+<color=#50C878>1.8.0</color> | <color=#b9d3e9>2023/12/31</color>
 
 ● お正月アップデート
 　　- クリスマスの飾り付けを終了
 　　- お正月の飾り付けを追加
 
-<color=#50C878>1.07.01</color> | <color=#b9d3e9>2023/11/27</color>
+<color=#50C878>1.7.1</color> | <color=#b9d3e9>2023/11/27</color>
 
 ● 機能改善
 　　- QvPenのおしりにデリートボタンを追加（リクエスト）
@@ -43,7 +48,7 @@
 　　- 冬アップデートで追加された雪だるまの位置を修正
 　　- 雪だるまにPickupを追加
 
-<color=#50C878>1.07.00</color> | <color=#b9d3e9>2023/11/13</color>
+<color=#50C878>1.7.0</color> | <color=#b9d3e9>2023/11/13</color>
 
 ● ウィンターアップデート
 　　- ハロウィンの飾り付けを終了
@@ -53,10 +58,13 @@
 　　- インフォメーションパネルを追加
 　　- Pickupの位置をリセットできるスイッチを追加
 
-<color=#50C878>1.06.00</color> | <color=#b9d3e9>2023/10/16</color>
+<color=#50C878>1.6.0</color> | <color=#b9d3e9>2023/10/16</color>
 
 ● ハロウィンアップデート
 
-<color=#50C878>1.00.05</color> | <color=#b9d3e9>2023/04/05</color>
+~~
+~~
+
+<color=#50C878>1.0.5</color> | <color=#b9d3e9>2023/04/05</color>
 
 ● ラボへ登録
