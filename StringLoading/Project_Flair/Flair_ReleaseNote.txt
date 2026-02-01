@@ -1,3 +1,7 @@
+<color=#50C878>VERSION 1.3.1</color>  |  <color=#b9d3e9>2026/02/01</color></u></b>
+
+● Youtubeタブレットコライダーを更に調整/最適化
+
 <color=#50C878>VERSION 1.3.0</color>  |  <color=#b9d3e9>2026/02/01</color></u></b>
 
 ● SDKなどの依存アセットを最新版へアップデート
