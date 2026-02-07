@@ -62,3 +62,4 @@ kud_schwarz
 GAME25
 らぷ
 ru
+詩
