@@ -1,0 +1,70 @@
+@@SECTION:INFO_JP@@
+「おかえりという言葉に 色があるとしたら たぶん――琥珀。 」
+
+それは、過ぎゆく時をやわらかく閉じ込め、 記憶の光を静かに宿す色。
+
+ここは、前作『群青コントレイル』と同じ洋館にある、夜のための客室。 現実の重さを脱ぎ捨て、「本物のわたし」へ還るための場所です。
+
+館の主は旅の空。 代わりにあなたを出迎えるのは、この部屋を守る猫たちです。 言葉はなくても、そのまなざしははっきりと告げる。――おかえり、と。
+
+誰かにとっては避難所であり、 誰かにとっては、自分自身を映す水面のような空間。 
+ ここでは時間も言葉も、すべてが一度やわらかく波立ち、琥珀の海へと静まっていきます。
+
+あなたが“あなた”としてそこに在ることを、 猫たちはただ、愛おしむように確かめに来るのです。
+
+――琥珀色の夜に、ようこそ。
+
+
+
+――猫たちからのお願い。
+・トークガンは猫タワーの横のクローゼットに隠してあるよ。
+・マジックハンドは…いたずらされると困るから、支援者さんだけね。
+
+@@SECTION:INFO_EN@@
+If the word “welcome home”
+had a color—
+it would probably be amber.
+
+A color that gently holds the passing of time,
+quietly cradling the light of memory.
+
+This is a guest room for the night,
+within the same mansion as Gunjo Contrail.
+A place to shed the weight of reality
+and return to your true self.
+
+The master of the house is still on a journey.
+In their place, the cats who watch over this room come to greet you.
+They speak no words,
+yet their gaze makes it unmistakably clear—
+welcome home.
+
+For some, this place is a refuge.
+For others, a surface of water
+that softly reflects who they are.
+
+Here, time and language gently stir once,
+then settle into a sea of amber.
+
+That you are here,
+simply as yourself—
+the cats come only to confirm this, with quiet affection.
+
+—Welcome to an amber-colored night.
+
+@@SECTION:RELEASE@@
+<color=#50C878>VERSION 0.1.0</color>  |  <color=#b9d3e9>2026/04/23</color></u></b>
+ 
+  ● FANBOX PreRelease
+ 
+
+ 
+
+@@SECTION:CREDIT@@
+<b>3Dモデル「マジックハンド」</b>
+bironist
+<size=90%>https://booth.pm/ja/items/3930303</size>
+
+<b>blessing - 3D flowerbouquet</b>
+arabesque elec
+<size=90%>https://booth.pm/ja/items/5439921</size>
