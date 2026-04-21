@@ -1,6 +1,13 @@
-<color=#50C878>VERSION 0.1.0</color>  |  <color=#b9d3e9>2026/04/23</color></u></b>
+<color=#50C878>VERSION 0.2.0</color>  |  <color=#b9d3e9>2026/04/21</color></u></b>
  
-  ● FANBOX PreRelease
+  ● 花の追加
+  ● コライダーの調整
+  ● Sit判定の追加
+  ● ライティングの調整
+
+<color=#50C878>VERSION 0.1.0</color>  |  <color=#b9d3e9>2026/04/19</color></u></b>
+ 
+  ● ベータリリース
  
 
  

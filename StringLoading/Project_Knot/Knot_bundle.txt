@@ -1,70 +1,133 @@
 @@SECTION:INFO_JP@@
-「おかえりという言葉に 色があるとしたら たぶん――琥珀。 」
+丘の上の一軒家に、ひとりで暮らしている誰かがいる。 あなたの知らない時間に窓を開け、あなたの知らない空気を吸い、あなたが帰ってくるのをずっと待っている。
 
-それは、過ぎゆく時をやわらかく閉じ込め、 記憶の光を静かに宿す色。
+同じ身体を持ちながら、決して出会えない。見上げる空の色さえ、きっと違う。
 
-ここは、前作『群青コントレイル』と同じ洋館にある、夜のための客室。 現実の重さを脱ぎ捨て、「本物のわたし」へ還るための場所です。
+花と水面の反射が美しい小さな宮殿に、手紙が一通。 それは「もうひとりのわたし」から、あなたへ宛てたものだった。
 
-館の主は旅の空。 代わりにあなたを出迎えるのは、この部屋を守る猫たちです。 言葉はなくても、そのまなざしははっきりと告げる。――おかえり、と。
-
-誰かにとっては避難所であり、 誰かにとっては、自分自身を映す水面のような空間。 
- ここでは時間も言葉も、すべてが一度やわらかく波立ち、琥珀の海へと静まっていきます。
-
-あなたが“あなた”としてそこに在ることを、 猫たちはただ、愛おしむように確かめに来るのです。
-
-――琥珀色の夜に、ようこそ。
-
-
-
-――猫たちからのお願い。
-・トークガンは猫タワーの横のクローゼットに隠してあるよ。
-・マジックハンドは…いたずらされると困るから、支援者さんだけね。
+ハッシュタグ：#MirageLetter
 
 @@SECTION:INFO_EN@@
-If the word “welcome home”
-had a color—
-it would probably be amber.
+Someone lives alone in a house on a hill.
+They open the window at hours you never see, breathe air you have never known, and wait quietly for you to return.
 
-A color that gently holds the passing of time,
-quietly cradling the light of memory.
+Though you share the same body, you can never meet.
+Even the color of the sky above you must be different.
 
-This is a guest room for the night,
-within the same mansion as Gunjo Contrail.
-A place to shed the weight of reality
-and return to your true self.
+In a small palace filled with flowers and shimmering reflections on the water, there is a single letter.
+It is addressed to you, from "the other me."
 
-The master of the house is still on a journey.
-In their place, the cats who watch over this room come to greet you.
-They speak no words,
-yet their gaze makes it unmistakably clear—
-welcome home.
-
-For some, this place is a refuge.
-For others, a surface of water
-that softly reflects who they are.
-
-Here, time and language gently stir once,
-then settle into a sea of amber.
-
-That you are here,
-simply as yourself—
-the cats come only to confirm this, with quiet affection.
-
-—Welcome to an amber-colored night.
+HashTag:#MirageLetter
 
 @@SECTION:RELEASE@@
-<color=#50C878>VERSION 0.1.0</color>  |  <color=#b9d3e9>2026/04/23</color></u></b>
+<color=#50C878>VERSION 0.2.0</color>  |  <color=#b9d3e9>2026/04/21</color></u></b>
  
-  ● FANBOX PreRelease
+  ● 花の追加
+  ● コライダーの調整
+  ● Sit判定の追加
+  ● ライティングの調整
+
+<color=#50C878>VERSION 0.1.0</color>  |  <color=#b9d3e9>2026/04/19</color></u></b>
+ 
+  ● ベータリリース
  
 
  
 
 @@SECTION:CREDIT@@
-<b>3Dモデル「マジックハンド」</b>
-bironist
-<size=90%>https://booth.pm/ja/items/3930303</size>
+■ Special Thanks for Licensing & Support
 
-<b>blessing - 3D flowerbouquet</b>
-arabesque elec
-<size=90%>https://booth.pm/ja/items/5439921</size>
+SouWorks
+
+VARAYA OnlineShop
+
+うましかちょう
+
+■ Personal Inspirations
+
+Philosophy of Creation : mio3io
+
+Catalyst for this Journey : あーるまーる
+
+
+■ Assets
+
+<b>EventCameraSystem</b>
+黒鳥ケモノ工房
+<size=90%>https://booth.pm/ja/items/4848817</size>
+
+<b>Fleur Nostalgie -懐かしき花の記憶-</b>
+ぜろけん。～第零研究所～
+<size=90%>https://booth.pm/ja/items/6944299</size>
+
+<b>GPU Infinite Grass</b>
+RED_SIM
+<size=90%>https://booth.pm/ja/items/7997362</size>
+
+<b>House Solitude by Coquelicotz</b>
+Imaginary Caravan
+<size=90%>https://booth.pm/ja/items/3615056</size>
+
+<b>Nature Assets</b>
+udon-cat-works
+<size=90%>https://booth.pm/ja/items/3590237</size>
+
+<b>nekoVATカーテン</b>
+nekoya
+<size=90%>https://booth.pm/ja/items/5941602</size>
+
+<b>Room: OffGrid by Coquelicotz</b>
+Imaginary Caravan by Coquelicotz
+<size=90%>https://booth.pm/ja/items/7075439</size>
+
+<b>Somnelia</b>
+Satsuyako Design Works
+<size=90%>https://booth.pm/ja/items/8182685</size>
+
+<b>VARAYA/Screen(+Speaker) [VizVid想定]</b>
+VARAYA OnlineShop
+<size=90%>https://booth.pm/ja/items/8034710</size>
+
+<b>Visitors Information Board</b>
+ちくわ屋
+<size=90%>https://booth.pm/ja/items/5403376</size>
+
+<b>しっぽり明朝</b>
+FONTDASU
+<size=90%>https://fontdasu.com/shippori-mincho/</size>
+
+<b>アナログターンテーブル『TN-400BT-X』</b>
+RoomieTale
+<size=90%>https://roomietale.com/product/tn-400bt-x/</size>
+
+<b>アメリカンな郵便受け（ローポリ）</b>
+サリーのブース
+<size=90%>https://booth.pm/ja/items/3878785</size>
+
+<b>オフィスチェア『ContessaⅡ』</b>
+RoomieTale
+<size=90%>https://roomietale.com/product/%e3%82%aa%e3%83%95%e3%82%a3%e3%82%b9%e3%83%81%e3%82%a7%e3%82%a2%e3%80%8econtessa%e2%85%b1%e3%80%8f/</size>
+
+<b>どこでもDJブース ホワイト</b>
+sou works
+<size=90%>https://booth.pm/ja/items/4646407</size>
+
+<b>星月夜カンテラ</b>
+うましかちょう #bakkerfly
+<size=90%>https://booth.pm/ja/items/8029147</size>
+
+<b>上下昇降デスク『Regas』</b>
+RoomieTale
+<size=90%>https://roomietale.com/product/%e4%b8%8a%e4%b8%8b%e6%98%87%e9%99%8d%e3%83%87%e3%82%b9%e3%82%af%e3%80%8eregas%e3%80%8f/</size>
+
+<b>洗濯バサミの3Dモデル</b>
+小さなお店
+<size=90%>https://booth.pm/ja/items/6202825</size>
+
+<b>調整可能なマイク / IK Adjustable Microphone</b>
+windfenix
+<size=90%>https://booth.pm/ja/items/7867416</size>
+
+<b>風車 (風力発電機) / Windmill (Wind Turbine)</b>
+月見工房
+<size=90%>https://booth.pm/ja/items/7260409</size>
