@@ -29,6 +29,10 @@ Desktop.ini
 *.sublime-project
 *.sublime-workspace
 
+# Claude / Agent config
+.claude/
+.agents/
+
 # Internal tooling (non-public)
 StringLoading/bundler.py
 StringLoading/bundler_Documentation.md
