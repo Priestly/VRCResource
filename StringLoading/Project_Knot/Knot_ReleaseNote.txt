@@ -1,3 +1,14 @@
+<color=#50C878>VERSION 0.4.0</color>  |  <color=#b9d3e9>2026/04/24</color></u></b>
+ 
+  ●ベータ先行公開（先行公開） 
+
+<color=#50C878>VERSION 0.3.0</color>  |  <color=#b9d3e9>2026/04/22</color></u></b>
+ 
+  ● 小物の追加
+  ● ライティング調整
+  ● WIMメニュー調整
+  ● SDKや依存関係を最新版に更新
+
 <color=#50C878>VERSION 0.2.0</color>  |  <color=#b9d3e9>2026/04/21</color></u></b>
  
   ● 花の追加
@@ -7,7 +18,7 @@
 
 <color=#50C878>VERSION 0.1.0</color>  |  <color=#b9d3e9>2026/04/19</color></u></b>
  
-  ● ベータリリース
+  ● アルファリリース
  
 
  
