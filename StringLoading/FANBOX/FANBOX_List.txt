@@ -58,3 +58,4 @@ GAME25
 faput4
 マサキ
 yuzu
+goro
