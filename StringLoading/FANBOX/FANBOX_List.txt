@@ -59,3 +59,4 @@ faput4
 マサキ
 yuzu
 goro
+GameAccount
